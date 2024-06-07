@@ -263,7 +263,7 @@ private void addMonthToDate(Date date, int month){
 }
 
 Date date = new Date();
-addMonthToDate(1, date);
+addMonthToDate(date, 1);
 ```
 
 **[⬆ back to top](#table-of-contents)**
